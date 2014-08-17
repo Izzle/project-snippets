@@ -2,6 +2,7 @@ body {
 	width: 600px;
 	margin: 100px auto 0;
 	background-image: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/noisy_net.png);
+	color: white;
 }
 * {
 	margin: 0;

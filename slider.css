@@ -34,3 +34,8 @@ body {
 .slider li {
 	float: left;
 }
+
+a {
+	font-weight: bold;
+	color: white;
+}
